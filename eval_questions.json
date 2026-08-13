@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the dimension of the model used in the base Transformer?",
+    "expected_keyword": "512"
+  },
+  {
+    "question": "How many attention heads does the base model use?",
+    "expected_keyword": "8"
+  },
+  {
+    "question": "What optimizer was used to train the model?",
+    "expected_keyword": "Adam"
+  },
+  {
+    "question": "What is scaled dot-product attention?",
+    "expected_keyword": "dot"
+  },
+  {
+    "question": "What programming language was used to implement the Transformer?",
+    "expected_keyword": ""
+  }
+]
